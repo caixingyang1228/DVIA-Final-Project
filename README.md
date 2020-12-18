@@ -25,14 +25,14 @@ readers of each article would be converted into data related to the
 
 I have thought of two scenarios.
 
--   The first is to find highly relevant areas based on the tag.
+-   First, find highly relevant areas based on the tag.
 
 (To make it more visual, I thought of inserting illustrations from the
 article into the tag page)
 
 ![](images/image3.png)
 
--   The second is based on regions to correspond to tag keywords with a
+-   Second, based on regions to correspond to tag keywords with a
     higher level of attention.
 
 -   ![](images/image1.png)
