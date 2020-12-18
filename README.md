@@ -27,8 +27,8 @@ I have thought of two scenarios.
 
 -   First, find highly relevant areas based on the tag.
 
-(To make it more visual, I thought of inserting illustrations from the
-article into the tag page)
+(To make it more visual readability, this version inserting a picture from the
+article related to the tag)
 
 ![](images/image3.png)
 
@@ -39,7 +39,7 @@ article into the tag page)
 
 ### Other modifications
 
-I added a list of relevant articles for each quarter, so that it is easy
+I added the list of articles of each quarter, so that it is easy
 to understand which article the keyword comes from.
 
 ![](images/image4.png)
