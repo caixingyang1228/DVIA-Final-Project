@@ -42,4 +42,4 @@ article into the tag page)
 I added a list of relevant articles for each quarter, so that it is easy
 to understand which article the keyword comes from.
 
-![](images/image1.png)
+![](images/image4.png)
